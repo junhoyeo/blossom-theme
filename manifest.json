@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+
+  "name": "Blossom Theme",
+  "description": "A Google Chrome Theme inspired by Dimigo's spring",
+  "theme": {
+    "colors": {
+      "frame": [244, 188, 188],
+      "frame_inactive": [242, 172, 172],
+
+      "toolbar": [255, 213, 209],
+
+      "ntp_background": [255, 226, 223],
+      "ntp_text": [255, 255, 255],
+
+      "tab_background_text": [255, 235, 130],
+      "tab_text": [255, 235, 130],
+
+      "bookmark_text": [255, 117, 142]
+    },
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom"
+    }
+  }
+}
